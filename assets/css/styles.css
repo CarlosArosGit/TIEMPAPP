@@ -1,0 +1,44 @@
+.contenedor{
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgClima{
+    height: 150px;
+}
+#switchGrado{
+    flex-direction: row;
+    display: flex;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+label{
+    margin-right: 10px;
+}
+.climaDias{
+    flex-direction: row;
+    display: flex;
+}
+.dia{
+    width: 40px;
+    margin-right: 12px;
+    text-align: center;
+}
+.sobreImg{
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
+p{
+    font-size: 14px;
+}
+.sobreImgP{
+font-size: 35px;
+font-weight: 600;
+}
+.sobreImgP2{
+    font-size: 25px;
+    font-weight: 600;
+    }
